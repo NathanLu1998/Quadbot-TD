@@ -1,0 +1,55 @@
+<!--
+    type="company"
+    block="block/spider.js"
+    generator="generator/spider.js"
+    lib="th"
+-->
+<script type="text/javascript" src="../../blocks/company/spider.js"></script>
+<script type="text/javascript" src="../../generators/arduino/company/spider.js"></script>
+
+<category id="spider DEMO" name="蜘蛛" colour= 100>
+<block type="START">
+</block>
+<block type="FOR">
+</block>
+<block type="BACK">
+</block>
+<block type="LEFT">
+</block>
+<block type="RIGHT">
+</block>
+<block type="WAVE">
+</block>
+<block type="SHAKE">
+</block>
+<block type="DANCE">
+</block>
+<block type="SIT">
+</block>
+<block type="STAND">
+</block>
+<block type="APP">
+</block>
+<block type="VFOR">
+</block>
+<block type="VBACK">
+</block>
+<block type="VLEFT">
+</block>
+<block type="VRIGHT">
+</block>
+<block type="VWAVE">
+</block>
+<block type="VSHAKE">
+</block>
+<block type="VDANCE">
+</block>
+<block type="VSIT">
+</block>
+<block type="VSTAND">
+</block>
+<block type="KONG">
+</block>
+<block type="break">
+</block>
+</category>
